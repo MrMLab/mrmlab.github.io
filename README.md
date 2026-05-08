@@ -1,8 +1,8 @@
 # Mr. M Portfolio
 
 > **An interactive, AI-driven, and highly secure personal portfolio engineered for the modern web.**
-> 
-> 🔗 **Experience the Live AI Platform [Here!](https://mrmlab.github.io)**
+
+🔗 **Experience the Live AI Platform [Here!](https://mrmlab.github.io)**
 
 ![React](https://img.shields.io/badge/React-19.0-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
